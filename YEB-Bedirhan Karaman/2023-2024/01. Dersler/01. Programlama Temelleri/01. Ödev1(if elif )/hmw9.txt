@@ -1,0 +1,6 @@
+ödev 9 
+
+1. hava sıcaklığını iste 
+2. 5 veya dah az ise "soğuk" de 
+3.6 ile 14 arasında ise "ılık" de 
+3. 15 veya daha fazlaysa "sıcak " de

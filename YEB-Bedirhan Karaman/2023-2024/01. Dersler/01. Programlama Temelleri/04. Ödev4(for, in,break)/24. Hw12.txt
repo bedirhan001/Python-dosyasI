@@ -1,0 +1,6 @@
+Kullanıcıdan 8 karakterlik bir şifre girmesini isteyiniz. Kullanıcı 8’den az ya da daha fazla karakter
+içeren bir şifre girdiğinde “Şifreniz 8 karakter olmalıdır.” şeklinde uyarı verdiriniz.
+ Kullanıcı şartlara uygun bir şifre girdiğinde de “Şifreniz kaydedildi.” uyarısı verdiriniz.
+
+ilk değişken ile input sayesinde değer girmeini iste 
+sonra len ile kaç karekter lcnı seç 

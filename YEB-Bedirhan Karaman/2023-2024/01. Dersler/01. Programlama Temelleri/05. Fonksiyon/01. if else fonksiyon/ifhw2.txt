@@ -1,0 +1,20 @@
+Bir üçgenin iç açıları toplamı 180 derecedir. Kullanıcının girdiği üç açı değerine 
+göre “Bu bir üçgendir.” ya da “Bu bir üçgen değildir.” çıktıları veren kodu yazınız. 
+
+üçgenin açılarını al 
+
+def angles():
+    angle_1 = int(input(açıyı gir))
+    angle_2 = int(input(açıyı gir))
+    angle_3 = int(input(açıyı gir))
+    return angle_1 + angle_2 + angle_3 
+
+
+def i yazdırabilmek içibn bir değişkene ver 
+total = angles()
+
+sorgula 
+if total == 180 : 
+    print("bu bir üçgendir ")
+elif total != 180 : 
+    print("bu bir üçgen değill")

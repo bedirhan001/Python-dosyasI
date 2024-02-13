@@ -1,0 +1,7 @@
+ Girilen iki sayı arasındaki sayıları toplayan programı while döngüsü ile yazınız. 
+
+1. ilk bir sayı gir 
+2. ikinci sayı iste 
+3. ilk ve ikinci sayıların arasındaki sayıları bul
+4. iki sayıyı topla 
+5. sürekli topla 

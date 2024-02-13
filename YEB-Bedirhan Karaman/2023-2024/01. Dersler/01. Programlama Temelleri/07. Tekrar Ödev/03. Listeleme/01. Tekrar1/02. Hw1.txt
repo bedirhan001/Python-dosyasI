@@ -1,0 +1,5 @@
+Elemanları haftanın günleri olan bir liste oluşturunuz ve ekrana yazdırınız.
+
+1. bir değğişken belirle
+2. haftanın günlerini yaz 
+3. ekrana yaz 

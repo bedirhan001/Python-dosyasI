@@ -1,0 +1,3 @@
+Girilen iki sayı arasındaki sayıların ortalamasını bulan programı while döngüsü ile yazınız. 
+
+1. sayı girsin iki tane arasındaki sayıları bulsun kaçtane varsa ona bölsün

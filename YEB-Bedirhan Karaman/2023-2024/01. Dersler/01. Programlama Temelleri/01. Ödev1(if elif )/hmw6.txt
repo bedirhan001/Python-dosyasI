@@ -1,0 +1,7 @@
+6)  Girilen sayı hem 3 hem de 5’e tam bölünüyorsa “15’e tam bölünür.”; bölünmüyorsa “15’e tam bölünmez.” çıktıları veren kodu yazınız.
+
+kullanıcıdan bir sayı istenir
+bir sayı gir 
+girilrn sayı hem 3'e hemde 5'e bölünüyorsa 15'e tam bölünür
+eğer bölünmüyorsa 15'e bölünmez
+

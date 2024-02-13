@@ -1,0 +1,6 @@
+Bir üçgenin iç açıları toplamı 180 derecedir. Kullanıcının girdiği üç açı değerine göre “Bu bir üçgendir.” ya da “Bu bir üçgen değildir.” çıktıları veren kodu yazınız. 
+
+1. 3 değişkenimiz olsun 
+2. hepsinin toplamı toplam diye bir değişkene eşit olsun 
+3. eğer  üçünün toplamı 180 e eşitse bu bir üçgendir 
+4. değilse bu bir değişken değildir  

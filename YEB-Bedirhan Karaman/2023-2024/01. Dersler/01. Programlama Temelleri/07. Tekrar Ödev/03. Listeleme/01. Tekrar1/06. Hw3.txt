@@ -1,0 +1,10 @@
+ Sırasıyla pi sayısı, inç biriminin cm olarak karşılığı, mikroişlemcilerin kısaltması, kullandığınız işletim sisteminin adı ve
+  48 bitin byte olarak karşılığını bir liste hâline getirerek ekrana yazdırınız.
+
+1. bir değişken oluştur ilk verilmesi istenen şeylerin sonucunu bulacaz 
+2. pi = 3.14 
+3. inç = 2.54 cm 
+4. mikroişlemcilerin kısaltması = cpu 
+5. 48 bit =  6 bayt 
+6. işletim sistemi = i7 8gb ram 
+7. bunları ekrana yaz  

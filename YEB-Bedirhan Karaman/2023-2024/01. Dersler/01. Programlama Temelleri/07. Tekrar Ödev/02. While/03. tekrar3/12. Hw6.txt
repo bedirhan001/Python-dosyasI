@@ -1,0 +1,3 @@
+Girilen iki sayı arasındaki sayıları toplayan programı while döngüsü ile yazınız. 
+
+1. iki değişken olsun değişkenimiz 1. ile 2. sayı arasındaki sayıları toplamını yaz

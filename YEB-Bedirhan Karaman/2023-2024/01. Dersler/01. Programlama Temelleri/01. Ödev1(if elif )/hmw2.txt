@@ -1,0 +1,11 @@
+ödev 2
+
+1. Kullanıcıdan birinci açıyı (triangle1) girilmesini iste.
+2. Kullanıcıdan ikinci açıyı (triangle2) girilmesini iste.
+3. Kullanıcıdan üçüncü açıyı (triangle3) girilmesini iste.
+4. Bu üç açının toplamını hesapla ve sonucu toplam_değişkenine kaydet.
+5. Eğer toplam_değişkeni 180'e eşitse:
+   6. "bu bir üçgendir" yazısını ekrana yazdır.
+7. Değilse:
+   8. "bu bir üçgen değildir" yazısını ekrana yazdır.
+9. Programı sonlandır.

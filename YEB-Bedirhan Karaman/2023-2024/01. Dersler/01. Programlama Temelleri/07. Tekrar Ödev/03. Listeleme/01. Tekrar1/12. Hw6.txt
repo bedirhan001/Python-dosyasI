@@ -1,0 +1,8 @@
+ Elemanları sırasıyla sanat, sanat, içindir olan listeyi sanat, toplum, içindir şeklinde değiştiriniz. 
+
+1. ilk sanat, sanat, içindir yazacak 
+2. sanatı silip oplum yazacak 
+NOT :
+Remove: Listenin içindeki değeri verilen elemanı siler.
+Insert: Listenin belirtilen konumuna (indeksine) eleman eklemek için kullanılır.
+Pop: Listede belirtilen konumdaki (indeks) elemanı siler.

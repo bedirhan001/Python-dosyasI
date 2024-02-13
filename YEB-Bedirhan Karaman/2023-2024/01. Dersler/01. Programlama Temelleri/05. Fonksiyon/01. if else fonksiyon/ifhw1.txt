@@ -1,0 +1,25 @@
+Kullanıcıdan iki sınav ve bir performans notu girmesini isteyiniz. Girilen 3 notun ortalaması
+ 50 ve daha büyükse “Başarılı”; değilse “Başarısız” çıktıları veren kodu yazınız.
+
+
+notları topla al 
+def get_note():
+    note1 = int(input("not gir :"))
+    note2 = int(input("not gir :"))
+    note3 = int(input("not gir :"))
+    return note1 + note2 + note3 
+
+
+toplamı bul 
+total = get_note()
+
+
+ort bul 
+ort = total / 3 
+
+
+göster 
+if ort <= 50 :
+    print("başarısız")
+elif ort > 50 :
+    print("başarılı")

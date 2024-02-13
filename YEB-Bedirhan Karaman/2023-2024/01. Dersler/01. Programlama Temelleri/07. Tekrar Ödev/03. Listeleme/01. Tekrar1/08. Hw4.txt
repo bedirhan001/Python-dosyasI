@@ -1,0 +1,5 @@
+Haftanın günlerinden Pazartesi ile başlayan ve Cuma ile biten bir liste oluşturunuz.
+Oluşturduğunuz listenin indeksi 4 olan elemanını ekrana yazdırınız.
+
+1. bir değişken oluştur ve hafta içini yaz 
+2. belirtilen konumuna indekse eşit olan elemanı yaz 

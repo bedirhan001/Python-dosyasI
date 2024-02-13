@@ -1,0 +1,2 @@
+Girilen iki sayının arasındaki sayıların ortalamasını bularak ekrana yazdırınız. 
+

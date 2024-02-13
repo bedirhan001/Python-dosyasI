@@ -1,0 +1,5 @@
+Kullanıcıya sinema ya da tiyatro tercihi sorulsun. Sinema izlemek için 15 TL, 
+tiyatro için 10 TL ödenmesi gerekmedir. Öğrencilere %50 indirim yapıldığı düşünülerek öğrenci ise indirim yapılan; 
+öğrenci değilse indirimsiz tutarı hesaplayarak ekrana yazdıran kodu yazınız
+
+1.zimbappeli trabzonlu kürt bedirhann

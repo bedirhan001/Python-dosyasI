@@ -1,0 +1,8 @@
+Kullanıcıdan iki sınav ve bir performans notu girmesini isteyiniz. Girilen 3 notun ortalaması 50 ve daha büyükse “Başarılı”; değilse “Başarısız” çıktıları veren kodu yazınız.
+
+1. ilk 1. notu gir 
+2. ikinci notu gir 
+3. perfomans notunu gir 
+4. 3 notu topla 3 e böl 
+5. eğer 3 notun ortalaması 50  veya daha büyükse başarılı 
+6. değilse başarısız 

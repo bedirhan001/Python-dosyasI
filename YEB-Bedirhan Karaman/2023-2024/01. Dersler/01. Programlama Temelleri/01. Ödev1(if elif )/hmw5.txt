@@ -1,0 +1,8 @@
+ödev 5
+
+1. kullanıcı adı iste 
+2. şifre iste 
+3. eğer kullanıcı adı = türkiye ise şifreye geç 
+4. şifre eğer 123 ise giriş başarılı 
+5. diğer durumlarda başarısız
+

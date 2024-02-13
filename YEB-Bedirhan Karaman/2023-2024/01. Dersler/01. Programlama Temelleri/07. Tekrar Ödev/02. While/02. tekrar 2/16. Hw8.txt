@@ -1,0 +1,5 @@
+20 ile 50 arasındaki (50 dâhil) çift sayıların toplamını bulan programı while döngüsü ile yazınız.
+
+1. ilk deyüp ona 20 de son deyip ona 50 de 
+2. toplam = 0 de 0 dan bvaşlasın 
+3. her defasında sayı artı 1 ve topla 

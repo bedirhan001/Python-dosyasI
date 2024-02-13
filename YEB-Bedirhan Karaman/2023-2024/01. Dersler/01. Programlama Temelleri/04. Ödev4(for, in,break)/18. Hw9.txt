@@ -1,0 +1,9 @@
+ Çıktısı aşağıdaki gibi olan kodu yazınız.
+PPPPPPPPPP
+YYYYYYYYYY
+TTTTTTTTTT
+HHHHHHHHHH
+OOOOOOOOOO
+NNNNNNNNNN
+
+önce bir değişken ile python yz print değişken * 10

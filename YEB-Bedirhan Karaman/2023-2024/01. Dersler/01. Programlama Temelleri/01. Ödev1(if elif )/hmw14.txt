@@ -1,0 +1,10 @@
+ödev 14 
+
+1. Kullanıcıdan üç sayıyı (n1, n2, n3) girmesini isteyin.
+2. İlk olarak, n1'in n2 ve n3'ten büyük olup olmadığını kontrol edin:
+   - Eğer n1 en büyükse, "en büyük sayı: n1" şeklinde bir çıktı verin.
+3. Eğer n1 en büyük değilse, n2'yi n1 ve n3 ile karşılaştırın:
+   - Eğer n2 en büyükse, "en büyük sayı: n2" şeklinde bir çıktı verin.
+4. Eğer n2 de en büyük değilse, n3'ü n1 ve n2 ile karşılaştırın:
+   - Eğer n3 en büyükse, "en büyük sayı: n3" şeklinde bir çıktı verin.
+5. Programı sonlandırın

@@ -1,0 +1,4 @@
+9) Klavyeden 1 girilene kadar girilen sayıların ortalamasını alan kodu yazınız. 
+
+1.sayıları gir 
+2.eğer 1 girerse ortalama al

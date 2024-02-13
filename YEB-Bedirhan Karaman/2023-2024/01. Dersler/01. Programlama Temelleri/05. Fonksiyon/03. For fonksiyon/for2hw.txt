@@ -1,0 +1,17 @@
+3’ten başlayarak 41’e kadar olan sayıları 5’er arttırarak for döngüsü ile ekrana yazdırınız.
+
+ilk sayıları bul 
+
+def numbers():
+    for numbers in range(3,41)
+    return numbers 
+
+
+sonra her sayıya 5 ekleyelim 
+
+def add(numbers):
+    if numbers += 5 
+    return numbers 
+
+numbers = add()
+print(numbers)

@@ -1,0 +1,7 @@
+Klavyeden 1 girilene kadar girilen sayıların ortalamasını alan kodu yazınız. 
+
+değişkenimiz 0 olsun 
+her sayıyı toplasın 
+başka bir değişkende kaç sayı olduğunu bulsun 
+1 girince ortalamayı alsın 
+devam 1 olana kadar true olsun 1 olursa false oolsun 

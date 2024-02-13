@@ -1,0 +1,4 @@
+60-30 (30 dâhil değil) arasındaki çift sayıları azalan sırada while döngüsü ile ekrana yazdırınız.
+
+1.  değişkene  ver
+2. 60-30a kadar eksilerek  2şer 2şer azalarak arasındaki çift sayıları yaz  

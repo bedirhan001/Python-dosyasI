@@ -1,0 +1,8 @@
+ Sırasıyla pi sayısı, inç biriminin cm olarak karşılığı, mikroişlemcilerin kısaltması, kullandığınız işletim sisteminin adı ve 48 bitin byte olarak karşılığını bir liste hâline getirerek ekrana yazdırınız.
+
+
+1. Pi sayısı: 3.14
+2. İnç biriminin cm olarak karşılığı: 2.54 cm
+3. Mikroişlemcilerin kısaltması: CPU (Central Processing Unit)
+4. Kullandığım işletim sisteminin adı: i7 
+5. 48 bitin byte olarak karşılığı: 6 byte (1 byte = 8 bit)

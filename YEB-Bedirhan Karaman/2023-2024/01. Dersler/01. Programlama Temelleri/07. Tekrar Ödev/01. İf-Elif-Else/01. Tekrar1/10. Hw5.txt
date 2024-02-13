@@ -1,0 +1,6 @@
+ Kullanıcıdan kullanıcı adı ve şifre girilmesi istensin. Kullanıcı adı “Türkiye”; şifre 1923 ise “Giriş başarılı”; değilse
+“Kullanıcı adı ya da şifre yanlış” çıktıları veren kodu yazınız.
+
+1. iki değişken olsun birinci türkiye ise devam 
+2. diğeri 1923 ise giriş başarılı 
+3. değilse başarısız

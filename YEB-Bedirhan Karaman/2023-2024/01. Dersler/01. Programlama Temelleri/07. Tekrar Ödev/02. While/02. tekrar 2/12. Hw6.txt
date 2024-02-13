@@ -1,0 +1,7 @@
+Girilen iki sayı arasındaki sayıları toplayan programı while döngüsü ile yazınız. 
+
+1. ilk bir değişken tanmlayıp ilk sayıyı girmesini iste 
+2. ikinci bir değişkenle son sayıyı girmesini iste 
+3. toplam diye bir değişken oluştur ve 0 ver 
+4. while ile döngüyü başlat ilk < son değişken
+5. her defasında bir artırsın ve toplasın

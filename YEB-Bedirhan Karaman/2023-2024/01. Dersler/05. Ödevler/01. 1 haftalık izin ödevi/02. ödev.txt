@@ -1,0 +1,9 @@
+Bir kişi, markete alışveriş yapmaya gidiyor. Sepetini doldururken,
+belirli bir bütçeye sadık kalmaya çalışıyor. Her ürünü seçtikten
+sonra, kalan bütçesini kontrol ederek alışverişe devam ediyor.
+Bütçesi tükendiğinde ise marketten çıkıyor.
+
+1. ilk bir değişken tanımlayıp ona sor ne kadar paran var 
+2. sonra istediğin şeyleri yaz fiyatlandır 
+3. her bir ürünü seçtiğinde ne kadar bütçesi kaldığını yaz 
+4. eğer bütçe == 0 ise marketten çıkıcak çıkış için q ye basacak 

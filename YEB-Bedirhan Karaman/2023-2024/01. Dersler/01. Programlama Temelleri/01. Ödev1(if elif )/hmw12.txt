@@ -1,0 +1,8 @@
+ödev 12
+
+1. ağırlık sor
+2. boyunu sor
+3.VKİ = ağırlık / (boy * boy) bu formülle vki yi bul
+4.eğer 25 ise "normalsiniz" de
+5. eğer 30 ise "ortasınz" de
+6. eğer 35 ise "kilolusunuz" de

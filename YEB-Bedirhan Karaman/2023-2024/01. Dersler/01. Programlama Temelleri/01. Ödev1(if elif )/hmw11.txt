@@ -1,0 +1,8 @@
+ödev 11 
+
+1. ilk açıyı gir 
+2. ikinci açıyı gir 
+3. üçüncü açıyı gir 
+4. eğer hepsi eşit ise bu bir eşkenardır de
+5. ikisi eşit biri değil se ikizkenar 
+6. diğer her durumda çeşitkenar de

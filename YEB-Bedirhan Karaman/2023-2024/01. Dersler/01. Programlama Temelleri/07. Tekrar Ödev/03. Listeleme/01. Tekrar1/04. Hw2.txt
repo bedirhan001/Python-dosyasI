@@ -1,0 +1,5 @@
+ En sevdiğiniz 3 meyveyi liste hâline getirerek ekrana yazdırınız. 
+
+1. değişken oluştur 
+2. değişkene 3 meyve yaz 
+3. ekrana yaz 

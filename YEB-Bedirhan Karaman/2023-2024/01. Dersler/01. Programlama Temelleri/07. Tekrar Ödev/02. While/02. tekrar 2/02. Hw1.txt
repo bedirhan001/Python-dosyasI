@@ -1,0 +1,4 @@
+ 1-30 (30 dâhil) arasındaki tek sayıları while döngüsü ile ekrana yazdırınız.
+
+ilk değişken e 0 verip 2 ye bölnmeyen tek sayıları al 
+30 a kadar 30 dahil 

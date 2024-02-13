@@ -1,0 +1,4 @@
+Girilen üç sayıdan en büyüğünü bulan kodu yazınız.
+
+1. üç değişken belirle 
+2. en büyüğünü yaz 

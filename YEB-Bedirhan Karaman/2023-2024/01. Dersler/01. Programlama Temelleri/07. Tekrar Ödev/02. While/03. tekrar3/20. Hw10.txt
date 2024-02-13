@@ -1,0 +1,5 @@
+ Girilen şifre “Python” olana kadar “Tekrar deneyiniz” uyarısı veren, “Python” girildiğinde “Giriş başarılı” uyarısı veren kodu yazınız.
+
+1. ilk olarak bir değer girmesini isteyip while i aç
+2. eğer python girilmezse devam girilirse tamam diyecek 
+3. onun için ilk bir değişken koy true de bitmesini istediğin erde o değişken false de 

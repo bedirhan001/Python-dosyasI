@@ -1,0 +1,2 @@
+Girilen sayının faktöriyelini bularak ekrana yazdırınız. 
+

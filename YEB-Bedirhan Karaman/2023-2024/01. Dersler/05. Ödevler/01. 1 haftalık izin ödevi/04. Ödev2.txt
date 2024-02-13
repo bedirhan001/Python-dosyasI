@@ -1,0 +1,8 @@
+bir restoran müşterilere özel bir kampanya düzenlemek için bir sipariş verme
+programı istiyor 
+1.sipariş verme : menüde yemek kategorilerini ve bu kategorideki ürünleri ve fiyatları göstericez sipariş vermek istiyonmu (e/H) h ise bit e ise devam
+2.menü seçim : ne sipariş vermek istediğini sor ana yemek tatlı gibi 
+3.fiyat gösterme : istediği şeyin fiyatını söyle 
+4.ek sipariş : seçtikten sonra başka isteğiniz varmı (E/H) eğer e derse tekrar sor 
+5.fiyat gösterimi : h derse bundan *1 bu kadar een son toplam tutar fiyat 
+6.indirim uygula : eğer 3 veya daha fazla ürün seçildiyse yüzde 15 indirim yap tutar bilgisi tutar = normal fiyatt indirimli tuta r= indirimli tutar 

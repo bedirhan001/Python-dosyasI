@@ -1,0 +1,6 @@
+Elemanları sırasıyla 4, 12, 18, 33 olan sayılar ile sayilar isminde bir liste oluşturunuz. 
+Listenin elemanlarını for döngüsü kullanarak toplayınız ve ekrana yazdırınız.
+
+ilk sayi deyip değerleri gir  
+toplam de 0 olsun 
+toplam += sayi de

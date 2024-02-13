@@ -1,0 +1,8 @@
+ Girilen iki sayı arasındaki sayıların ortalamasını bulan programı while döngüsü ile yazınız. 
+
+
+1. ilk sayıyı iste 
+2. ikinci sayıyı iste 
+3. iki sayı arasındaki sayıları bul 
+4. hepsini topla 
+5. kaç sayı varsa o sayıya böl

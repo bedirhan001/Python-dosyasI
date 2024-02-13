@@ -1,0 +1,7 @@
+  Kullanıcıdan iki sınav ve bir performans notu girmesini isteyiniz. Girilen 3 notun ortalaması 50 ve daha büyükse “Başarılı”; değilse “Başarısız” çıktıları veren kodu yazınız.
+
+1. olarak 3 değişkenimiz olsun 
+2. olarak tüm değişkenleri topla 
+3. olarak 3 e böl 
+4. olarak eğer sonuç 50 ye eşit yada dah büyükse başarılı 
+5. değilse başarısız 

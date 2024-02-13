@@ -1,0 +1,5 @@
+Değerleri sırasıyla 3,1,2 olan listeyi 1,1,2 olarak değiştiriniz.
+
+1. 3,1,2 yaz 
+2. pop kullan 3 ü sil 
+3. insert kullan 0 noktaya 1 ekle

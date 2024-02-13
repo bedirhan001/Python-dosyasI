@@ -1,0 +1,6 @@
+ödev 13 
+
+1. Kullanıcıdan ad, maaş ve çalışma yılı alın.
+2. Çalışma yılına göre zam miktarını hesaplayın.
+3. Zamlı maaşı hesaplayın.
+4. Sonucu kullanıcıya gösterin.

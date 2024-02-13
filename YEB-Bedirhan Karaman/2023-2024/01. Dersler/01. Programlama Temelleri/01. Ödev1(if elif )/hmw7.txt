@@ -1,0 +1,6 @@
+ödev 7 
+
+1. işlemci türü girmesini iste 
+2. ram girmesini iste 
+3. işlemci i7 ise ram de 8 veya daha fazla ise kurulum başarılı 
+4. diğer durumlarda başarısız

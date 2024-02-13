@@ -1,0 +1,17 @@
+17.10.2023 
+bedirhan karaman
+alperen yılmaz 
+alim efe gündoğan
+
+ödev 1
+
+1. Kullanıcıdan birinci notu (number1) girilmesini iste.
+2. Kullanıcıdan ikinci notu (number2) girilmesini iste.
+3. Kullanıcıdan performans notunu (performance) girilmesini iste.
+4. Üç notun ortalamasını hesapla ve sonucu ortalama değişkenine kaydet.
+5. Eğer ortalama 50 veya daha büyükse:
+   6. "başarılı" yazısını ekrana yazdır.
+7. Değilse:
+   8. "başarısız" yazısını ekrana yazdır.
+9. Programı sonlandır.
+

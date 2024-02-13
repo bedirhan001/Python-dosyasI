@@ -1,0 +1,8 @@
+ Girilen üç sayıdan en büyüğünü bulan kodu yazınız.
+ 
+ üç değişkenimiz olsun 
+ hangisi büyükse yazsın 
+
+değişkenleri tanımla 
+ilk değişken 2. ve 3. değişken  den büyükse yaz 
+2. ve 3. değişken için de aynı şeyi yap

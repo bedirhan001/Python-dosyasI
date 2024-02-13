@@ -1,0 +1,6 @@
+ödev 10 
+
+1. otoparrkta ne kadar kaldığını sor 
+2. 1 saat yada daha az ise 5 tl 
+3. 5ve 1 arasında ise "ücret :",5 + (hour - 1) * 4  bu işlem 
+4. daha fazla ise fiyat = 5 + 4 * 4 + (hour - 5) * 3 bu işlem ile ölçülüp fiyat yazılacak

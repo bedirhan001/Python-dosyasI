@@ -1,0 +1,16 @@
+0-20 arası çift sayıları for döngüsü ile ekrana yazdırınız. 
+
+def range değişken bunları kullan 
+range = iki sayı arasında ki sayılar ile iş yapar 
+
+ilk sayıları yaz 
+
+def couple_numbers ():
+    for numbers in range(0,21)
+
+şimdide çift olup olmadığını sorgula 
+
+def question():
+    if couple_numbers % 2 == 0 : 
+        return question 
+

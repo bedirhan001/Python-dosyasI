@@ -1,0 +1,10 @@
+Girilen iki sayının arasındaki sayıların ortalamasını bularak ekrana yazdırınız. 
+
+ilk iki değişken oluştur 
+for değişkenin adı  in range(sayı 1 ,sayı2 )  
+                            (ikisayı arasındakiler için )
+toplam = 0 de 
+her defasındaa toplam += sayı1 
+rakam_sayısı = 0 de 
+her defasındaa += 1 de 
+ortalama = toplam / rakam_sayısı de göster 

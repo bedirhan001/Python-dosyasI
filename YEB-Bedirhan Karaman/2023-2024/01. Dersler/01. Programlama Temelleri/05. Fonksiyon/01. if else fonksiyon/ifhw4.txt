@@ -1,0 +1,21 @@
+Kullanıcının girdiği iki ürünün toplam fiyatı 200 TL ve altıysa “Ödenecek miktar=…. TL”;
+ 200 TL’yi geçerse %25 indirim yaparak “Ödenecek miktar, indirimden sonra ….. TL’dir.” çıktılarını veren kodu yazınız.
+
+ #ilk ürünü iste 
+
+def get_product():
+    product_1 = int(input("ürünün fiyatını girin : "))
+    product_2 = int(input("ürünün fiyatını girin : "))
+    return product_1 + product_2
+
+ #sonra al 
+
+total = get_product()
+
+ #indirimi tanımla 
+discount = (0.25 * total ) - total 
+
+if total >= 200 :
+    print(discount)
+elif total < 200 :
+    print(f"ücret {total}")

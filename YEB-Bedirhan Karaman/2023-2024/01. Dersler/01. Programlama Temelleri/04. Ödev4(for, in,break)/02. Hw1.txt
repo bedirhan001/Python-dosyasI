@@ -1,0 +1,5 @@
+0-20 arası çift sayıları for döngüsü ile ekrana yazdırınız. 
+
+ilk değiikenim olcak ve 0 olcak 
+range kullanıp 2 sayı arasındakileri bul 
+2 ye bölcek tam bölünürse çift demek onları yaz ama for ile  

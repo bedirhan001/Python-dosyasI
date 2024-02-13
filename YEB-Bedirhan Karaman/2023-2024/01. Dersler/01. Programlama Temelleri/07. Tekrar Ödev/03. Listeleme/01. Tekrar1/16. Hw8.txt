@@ -1,0 +1,16 @@
+ Adı ders, elemanları sırasıyla B,İ,L,İ,Ş,İ,M olan bir liste oluşturarak aşağıdaki işlemleri yapınız. 
+a)  Listeyi alfabetik olarak sıralayınız. 
+b)  Listeyi tersten yazdırınız. 
+c)  Listede kaç tane İ elemanı olduğunu bulunuz. 
+ç) Gerekli harfleri silerek listeyi B,İ,L,İ,M hâline getiriniz. 
+d) ders listesini alan listesine kopyalayarak ekrana alan listesini yazdırınız. 
+e) Listenin tüm elemanlarını siliniz. 
+f) L elemanının indeksini bulunuz. 
+
+1. alfabetik için olan kodu bul (Sort)
+2. tersten yazdıran kodu bul(. Reverse)
+3. i bulmak için gereken kodu yaz 
+4. pop u yada remove yi kullanarak ş ve bir tane i yi çıkar 
+5. copy kullan kopyala 
+6. clear ı kullan sil 
+7. l nin indeksini bul

@@ -1,0 +1,4 @@
+1-30 (30 dâhil) arasındaki tek sayıları while döngüsü ile ekrana yazdırınız.
+
+1. sayıları 1 den 30 a kadar yazacak 
+2. tek sayılar yazacak

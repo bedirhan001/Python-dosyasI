@@ -1,0 +1,7 @@
+Girilen iki sayı arasındaki sayıların toplamını bularak ekrana yazdırınız. 
+
+ilk iki değişken yap x ve y de 
+for sayı range (x , y) de 
+toplam olsun = 0 olsun 
+toplam her defasında += 1 
+sonra göster 

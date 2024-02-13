@@ -1,0 +1,8 @@
+ Üçgenler kenar uzunluklarına göre üçe ayrılmaktadır: Eşkenar, İkizkenar ve Çeşitkenar.
+ Kullanıcının girdiği 3 kenar uzunluğuna göre üçgenin türünü ekrana yazdırınız. 
+
+3 tane açı var hepsi için değişken tanımla 
+    eğer toplamı 180 ise ve tüm açılar eşitse bu bir eşkenar 
+    iki tanesi eşitse ikizkenar 
+    hepsi farklıysa çeşitkenarr 
+eğer 180 e eşit değilse bu bir üçgen depildir 

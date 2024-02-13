@@ -1,0 +1,4 @@
+Girilen iki sayı arasındaki sayıların toplamını bularak ekrana yazdırınız. 
+
+n1 diye bir değişken olcak n2 diye bir değişken olcak bunların araasındakileri range ile bucaz 
+toplam diye bir değişken olcak ve hepsi toplanck 

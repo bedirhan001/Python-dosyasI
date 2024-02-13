@@ -1,0 +1,4 @@
+1-30 (30 dâhil) arasındaki tek sayıları while döngüsü ile ekrana yazdırınız.
+
+1. değişken yap sıfır ver 
+2. 30 a kadar gelene kadar tekrarla

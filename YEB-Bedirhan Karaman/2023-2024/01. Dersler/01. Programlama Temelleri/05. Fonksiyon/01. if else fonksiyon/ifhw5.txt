@@ -1,0 +1,19 @@
+Kullanıcıdan kullanıcı adı ve şifre girilmesi istensin. Kullanıcı adı
+ “Türkiye”; şifre 1923 ise “Giriş başarılı”; değilse “Kullanıcı adı ya da şifre yanlış” çıktıları veren kodu yazınız. 
+
+#ilk kullanıcıyla şifreyi tanımla
+user_name = “Türkiye”
+password = "1923"
+
+# def ile kontrol et 
+
+def question():
+    name = input("kullanıcı adını gir")
+    passs = int(input("şifre gir sayı ile "))
+    return name,passs
+
+entrance = user_name,passs 
+question_2 = question()
+
+if user_name == 
+

@@ -1,0 +1,5 @@
+ödev 8 
+
+1. numara girmesini iste 
+2. 6,7,60,8 girilirse numarasının şehir adı 
+3. diğer durumlarda tükiye yazasın

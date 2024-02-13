@@ -1,0 +1,7 @@
+Girilen iki sayı arasındaki sayıların ortalamasını bulan programı while döngüsü ile yazınız. 
+
+1. ilk bir değişken yapıp ilk sayı girilmesini iste 
+2. ikinci bir değişken ile son sayıyı girmesini iste 
+3. sonra toplam = 0 ve ortalama ve terim sayısı de 
+4. ortalama = toplam / terim sayısı 
+5. terim sayısı bir ile ikinci arasındaki sayıların kaç tane olduğunu bul 

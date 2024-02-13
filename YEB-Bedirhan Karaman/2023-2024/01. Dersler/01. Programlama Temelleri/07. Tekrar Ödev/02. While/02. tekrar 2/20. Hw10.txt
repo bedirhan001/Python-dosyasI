@@ -1,0 +1,3 @@
+Girilen şifre “Python” olana kadar “Tekrar deneyiniz” uyarısı veren, “Python” girildiğinde “Giriş başarılı” uyarısı veren kodu yazınız.
+
+bir değişken belirle eğer şifre == python ise başarlı değilse başarısız

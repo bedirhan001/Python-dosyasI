@@ -1,0 +1,4 @@
+ Girilen üç sayıdan en büyüğünü bulan kodu yazınız.
+
+1 olarak hepsine değişken tanımla 
+2. sırayla hepsine bak en büyüğünü yaz

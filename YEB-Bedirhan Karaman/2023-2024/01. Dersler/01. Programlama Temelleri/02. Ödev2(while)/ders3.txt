@@ -1,0 +1,4 @@
+3)  0-100 (100 dâhil) arasındaki sayılardan 5’e tam bölünenleri while döngüsü ile ekrana yazdırınız. 
+
+1. sayi 100 ile 0 arasında olcak 
+2. 5 tam bölnenler ekrana yazılacak

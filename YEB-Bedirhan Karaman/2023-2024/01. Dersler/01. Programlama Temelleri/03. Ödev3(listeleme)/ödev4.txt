@@ -1,0 +1,4 @@
+ Haftanın günlerinden Pazartesi ile başlayan ve Cuma ile biten bir liste oluşturunuz. Oluşturduğunuz listenin indeksi 4 olan elemanını ekrana yazdırınız.
+
+1. Haftanın içi günlerini yaz 
+2. 4 elemanı ekrana yaz 

@@ -1,0 +1,12 @@
+5 ile 15 (15 dâhil) arasındaki tek sayıları bir listeye alınız. 6 ile 16 (16 dâhil) arasındaki çift sayıları da başka bir listeye alınız. 
+a)  Oluşturduğunuz tek sayılar listesine çift sayıları ekleyerek iç içe bir liste hazırlayınız. 
+b)  Ekran çıktısı olarak 7 14 üreten kodu yazınız. 
+c)  Ekrana sırasıyla çift sayılar listesinden 10 ve 12; tek sayılar listesinden 13 yazdırınız.
+
+1. bi değişkenimiz olcak ilk 5 ile 15 arasındaki sayıları alcak 
+2. sonra 2 ye bölünmüyorsa tek demektir ozaman o sayıları yazsın 
+3. sonra bu değişken ile 6 16 arasındaki sayıları bulalım 
+4. 2 ye bölünüyorsa çiift demektir o zaman ayzsın
+5. bu listeleri birleştir 
+6. birinci ile ikinci sayılardan 7 ile 14 ün yerini bularak onları yazalım
+7. çift 10 ve 12 nin yerini bulup yazdır teklerden 13 ün yerini bul ve yazdır

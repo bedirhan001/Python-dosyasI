@@ -1,0 +1,8 @@
+kg = int(input("kg yi griniz "))
+
+ektl = (kg - 20 )* 10 
+
+if kg > 20 : 
+    print("gereken ücret :",ektl)
+else : 
+    print("ücret gerekli değil") 

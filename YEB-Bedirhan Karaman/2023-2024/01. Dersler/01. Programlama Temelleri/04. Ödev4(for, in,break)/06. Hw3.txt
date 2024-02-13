@@ -1,0 +1,4 @@
+3’ten başlayarak 41’e kadar olan sayıları 5’er arttırarak for döngüsü ile ekrana yazdırınız. 
+
+ilk 3 ile 41 e kadar olan sayıları range ile yaz 
+herr sayıya 5 ekle 

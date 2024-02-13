@@ -1,0 +1,4 @@
+ Değerleri sırasıyla 3,1,2 olan listeyi 1,1,2 olarak değiştiriniz.
+
+1. 3,1,2, yaz
+2. 3 ile 1 i değiştir 

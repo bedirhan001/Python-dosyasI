@@ -1,0 +1,4 @@
+  0-20 arası çift sayıları for döngüsü ile ekrana yazdırınız. 
+
+1 .ilk 0 de , 20 de bu 0 ile 20 arasındaki sayıları verir 
+2. 2 ye böl çifti bulmak için sonra yaz

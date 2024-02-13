@@ -1,0 +1,5 @@
+  Kullanıcıdan iki sınav ve bir performans notu girmesini isteyiniz. Girilen 3 notun ortalaması 50 ve daha büyükse “Başarılı”; değilse “Başarısız” çıktıları veren kodu yazınız.
+
+1. 3 ddeğişken tanımla 
+2. üçünün toplamı eğer 50 ye eşit veya büyükse başarılı 
+3.. değilse başarısız

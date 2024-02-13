@@ -1,0 +1,7 @@
+ Adı sayilar, elemanları sırasıyla 35, 26, 81, 64 olan bir liste oluşturarak aşağıdaki işlemleri yapınız. 
+a)  Listeyi büyükten küçüğe doğru sıralayınız. 
+b)  Listeyi tersten yazdırınız. 
+c)  Listede kaç tane 26 elemanı olduğunu bulunuz. 
+ç) Listedeki 81 sayısını siliniz. 
+d) Listenin tüm elemanlarını siliniz.
+

@@ -1,0 +1,5 @@
+1 ile 20 arasındaki (20 dâhil) sayıların toplamını bulan programı while döngüsü ile yazınız. 
+
+1. değişkeniiz sıfır olsun
+2. bu sayı 20 ye kadar gitsin 
+3. tüm sayıları toplasın

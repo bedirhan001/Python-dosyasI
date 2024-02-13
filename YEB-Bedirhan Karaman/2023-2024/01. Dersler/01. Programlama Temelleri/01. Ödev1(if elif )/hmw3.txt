@@ -1,0 +1,5 @@
+ödev 3
+
+1. kullanıcıdan kg iste 
+2. eğer 20 ise ücret gerekmez 
+3. eğer 20 den fazla ise her kg için 10 tl al

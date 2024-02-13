@@ -1,0 +1,5 @@
+ödev 4
+
+1. kullanıcıdan fiyat iste 
+2. kullanıcıdan 2. fiyat iste 
+3. 1 . fiyat + 2 . fiyat = 200 veya daha fazlaysa indirim ver

@@ -1,0 +1,6 @@
+ Klavyeden 1 girilene kadar girilen sayıların ortalamasını alan kodu yazınız. 
+
+1. ilk bir değişken yap reply de true de 
+2. while de reply 
+3. eğer sayı = 1 ise reply = false 
+4. değilse devam 
